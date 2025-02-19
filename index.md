@@ -1,3 +1,4 @@
 # header one
 ## Second one
 i did something
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
